@@ -1,4 +1,2 @@
-<h1> Hello There! </h1>
-I am Darq-Shadow! And my shadow is well... Dark!
-I hope you can embark in a wonderful journey on GitHub!
-<h3>Good Bye!</h3>
+<h1> Stop saying thumbs aren't fingers.. they are, idiots.. </h1>
+Seriously..
